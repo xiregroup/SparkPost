@@ -2,6 +2,7 @@
   "name": "infidea/sparkpost",
   "description": "Sparkpost for PHP 5.4",
   "version": "1.0",
+  "license": "Apache 2.0",
   "authors": [
     {
       "name": "Pisarev Aleksey",
