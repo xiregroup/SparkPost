@@ -4,9 +4,6 @@
 
 # SparkPost PHP Library
 
-[![Travis CI](https://travis-ci.org/SparkPost/php-sparkpost.svg?branch=master)](https://travis-ci.org/SparkPost/php-sparkpost)
-[![Coverage Status](https://coveralls.io/repos/SparkPost/php-sparkpost/badge.svg?branch=master&service=github)](https://coveralls.io/github/SparkPost/php-sparkpost?branch=master) [![Slack Status](http://slack.sparkpost.com/badge.svg)](http://slack.sparkpost.com)
-
 The official PHP library for using [the SparkPost REST API](https://developers.sparkpost.com).
 
 **Note: We understand that the ivory-http-adapter we use in this library is deprecated in favor of httplug. We use Ivory internally to make it simple for you to use whatever HTTP library you want. The deprecation won't affect or limit our ongoing support of this PHP library.**
